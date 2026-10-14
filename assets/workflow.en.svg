@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif" role="img">
+<rect x="0.5" y="0.5" width="1199" height="439" rx="18" fill="#F7F5F0" stroke="#D8D4CC"/>
+<text x="600" y="42" font-size="22" fill="#1F2430" font-weight="700" text-anchor="middle">Who does what</text>
+<rect x="30" y="70" width="1140" height="130" rx="14" fill="#2F6FDE" fill-opacity="0.07" stroke="#2F6FDE" stroke-opacity="0.35"/>
+<text x="52" y="144" font-size="22" fill="#2F6FDE" font-weight="700" text-anchor="start">You</text>
+<rect x="30" y="220" width="1140" height="130" rx="14" fill="#7048E8" fill-opacity="0.07" stroke="#7048E8" stroke-opacity="0.35"/>
+<text x="52" y="294" font-size="22" fill="#7048E8" font-weight="700" text-anchor="start">AI</text>
+<rect x="150" y="237" width="150" height="96" rx="12" fill="#FFFFFF" stroke="#7048E8" stroke-width="1.6"/>
+<circle cx="170" cy="259" r="12" fill="#7048E8"/>
+<text x="170" y="264" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">1</text>
+<text x="190" y="265" font-size="18" fill="#7048E8" font-weight="700" text-anchor="start">Research</text>
+<text x="164" y="293" font-size="13" fill="#1F2430" font-weight="400" text-anchor="start">brief, sources,</text>
+<text x="164" y="313" font-size="13" fill="#5B6270" font-weight="400" text-anchor="start">candidate angles</text>
+<rect x="320" y="87" width="150" height="96" rx="12" fill="#FFFFFF" stroke="#2F6FDE" stroke-width="1.6"/>
+<circle cx="340" cy="109" r="12" fill="#2F6FDE"/>
+<text x="340" y="114" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">2</text>
+<text x="360" y="115" font-size="18" fill="#2F6FDE" font-weight="700" text-anchor="start">Choose</text>
+<text x="334" y="143" font-size="13" fill="#1F2430" font-weight="400" text-anchor="start">angle, claim,</text>
+<text x="334" y="163" font-size="13" fill="#5B6270" font-weight="400" text-anchor="start">real experience</text>
+<rect x="490" y="237" width="150" height="96" rx="12" fill="#FFFFFF" stroke="#7048E8" stroke-width="1.6"/>
+<circle cx="510" cy="259" r="12" fill="#7048E8"/>
+<text x="510" y="264" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">3</text>
+<text x="530" y="265" font-size="18" fill="#7048E8" font-weight="700" text-anchor="start">Draft</text>
+<text x="504" y="293" font-size="13" fill="#1F2430" font-weight="400" text-anchor="start">from your inputs,</text>
+<text x="504" y="313" font-size="13" fill="#5B6270" font-weight="400" text-anchor="start">with visible slots</text>
+<rect x="660" y="87" width="150" height="96" rx="12" fill="#FFFFFF" stroke="#2F6FDE" stroke-width="1.6"/>
+<circle cx="680" cy="109" r="12" fill="#2F6FDE"/>
+<text x="680" y="114" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">4</text>
+<text x="700" y="115" font-size="18" fill="#2F6FDE" font-weight="700" text-anchor="start">Rewrite</text>
+<text x="674" y="143" font-size="13" fill="#1F2430" font-weight="400" text-anchor="start">add scene, stance,</text>
+<text x="674" y="163" font-size="13" fill="#5B6270" font-weight="400" text-anchor="start">boundary</text>
+<rect x="830" y="237" width="150" height="96" rx="12" fill="#FFFFFF" stroke="#7048E8" stroke-width="1.6"/>
+<circle cx="850" cy="259" r="12" fill="#7048E8"/>
+<text x="850" y="264" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">5</text>
+<text x="870" y="265" font-size="18" fill="#7048E8" font-weight="700" text-anchor="start">Audit</text>
+<text x="844" y="293" font-size="13" fill="#1F2430" font-weight="400" text-anchor="start">5 questions, asks,</text>
+<text x="844" y="313" font-size="13" fill="#5B6270" font-weight="400" text-anchor="start">never rewrites</text>
+<rect x="1000" y="87" width="150" height="96" rx="12" fill="#FFFFFF" stroke="#2F6FDE" stroke-width="1.6"/>
+<circle cx="1020" cy="109" r="12" fill="#2F6FDE"/>
+<text x="1020" y="114" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">6</text>
+<text x="1040" y="115" font-size="18" fill="#2F6FDE" font-weight="700" text-anchor="start">Final</text>
+<text x="1014" y="143" font-size="13" fill="#1F2430" font-weight="400" text-anchor="start">you stand behind</text>
+<text x="1014" y="163" font-size="13" fill="#5B6270" font-weight="400" text-anchor="start">every line</text>
+<path d="M300 285 C 310.0 285, 310.0 135, 312 135" fill="none" stroke="#5B6270" stroke-width="2"/>
+<path d="M319 135 l-9 -5 v10 z" fill="#5B6270"/>
+<path d="M470 135 C 480.0 135, 480.0 285, 482 285" fill="none" stroke="#5B6270" stroke-width="2"/>
+<path d="M489 285 l-9 -5 v10 z" fill="#5B6270"/>
+<path d="M640 285 C 650.0 285, 650.0 135, 652 135" fill="none" stroke="#5B6270" stroke-width="2"/>
+<path d="M659 135 l-9 -5 v10 z" fill="#5B6270"/>
+<path d="M810 135 C 820.0 135, 820.0 285, 822 285" fill="none" stroke="#5B6270" stroke-width="2"/>
+<path d="M829 285 l-9 -5 v10 z" fill="#5B6270"/>
+<path d="M980 285 C 990.0 285, 990.0 135, 992 135" fill="none" stroke="#5B6270" stroke-width="2"/>
+<path d="M999 135 l-9 -5 v10 z" fill="#5B6270"/>
+<text x="600" y="412" font-size="17" fill="#5B6270" font-weight="600" text-anchor="middle">You decide and finish. AI speeds up what sits in between.</text>
+</svg>

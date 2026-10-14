@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Noto Sans CJK SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif" role="img">
+<rect x="0.5" y="0.5" width="1199" height="379" rx="18" fill="#F7F5F0" stroke="#D8D4CC"/>
+<text x="600" y="42" font-size="22" fill="#1F2430" font-weight="700" text-anchor="middle">The five-question audit</text>
+<rect x="54" y="70" width="204" height="170" rx="14" fill="#FFFFFF" stroke="#D8D4CC"/>
+<rect x="54" y="70" width="204" height="10" rx="5" fill="#2F6FDE"/>
+<circle cx="80" cy="116" r="15" fill="#2F6FDE"/>
+<text x="80" y="122" font-size="16" fill="#FFFFFF" font-weight="700" text-anchor="middle">1</text>
+<text x="106" y="123" font-size="19" fill="#2F6FDE" font-weight="700" text-anchor="start">Core claim</text>
+<text x="72" y="168" font-size="15" fill="#1F2430" font-weight="400" text-anchor="start">What is the one</text>
+<text x="72" y="192" font-size="15" fill="#1F2430" font-weight="400" text-anchor="start">sentence to remember?</text>
+<rect x="276" y="70" width="204" height="170" rx="14" fill="#FFFFFF" stroke="#D8D4CC"/>
+<rect x="276" y="70" width="204" height="10" rx="5" fill="#1F9D6B"/>
+<circle cx="302" cy="116" r="15" fill="#1F9D6B"/>
+<text x="302" y="122" font-size="16" fill="#FFFFFF" font-weight="700" text-anchor="middle">2</text>
+<text x="328" y="123" font-size="19" fill="#1F9D6B" font-weight="700" text-anchor="start">The reader</text>
+<text x="294" y="168" font-size="15" fill="#1F2430" font-weight="400" text-anchor="start">Why does it matter</text>
+<text x="294" y="192" font-size="15" fill="#1F2430" font-weight="400" text-anchor="start">to this reader?</text>
+<rect x="498" y="70" width="204" height="170" rx="14" fill="#FFFFFF" stroke="#D8D4CC"/>
+<rect x="498" y="70" width="204" height="10" rx="5" fill="#D9480F"/>
+<circle cx="524" cy="116" r="15" fill="#D9480F"/>
+<text x="524" y="122" font-size="16" fill="#FFFFFF" font-weight="700" text-anchor="middle">3</text>
+<text x="550" y="123" font-size="19" fill="#D9480F" font-weight="700" text-anchor="start">Emotion</text>
+<text x="516" y="168" font-size="15" fill="#1F2430" font-weight="400" text-anchor="start">What need does it</text>
+<text x="516" y="192" font-size="15" fill="#1F2430" font-weight="400" text-anchor="start">actually meet?</text>
+<rect x="720" y="70" width="204" height="170" rx="14" fill="#FFFFFF" stroke="#D8D4CC"/>
+<rect x="720" y="70" width="204" height="10" rx="5" fill="#C2255C"/>
+<circle cx="746" cy="116" r="15" fill="#C2255C"/>
+<text x="746" y="122" font-size="16" fill="#FFFFFF" font-weight="700" text-anchor="middle">4</text>
+<text x="772" y="123" font-size="19" fill="#C2255C" font-weight="700" text-anchor="start">The author</text>
+<text x="738" y="168" font-size="15" fill="#1F2430" font-weight="400" text-anchor="start">What do I learn</text>
+<text x="738" y="192" font-size="15" fill="#1F2430" font-weight="400" text-anchor="start">about you?</text>
+<rect x="942" y="70" width="204" height="170" rx="14" fill="#FFFFFF" stroke="#D8D4CC"/>
+<rect x="942" y="70" width="204" height="10" rx="5" fill="#7048E8"/>
+<circle cx="968" cy="116" r="15" fill="#7048E8"/>
+<text x="968" y="122" font-size="16" fill="#FFFFFF" font-weight="700" text-anchor="middle">5</text>
+<text x="994" y="123" font-size="19" fill="#7048E8" font-weight="700" text-anchor="start">Change</text>
+<text x="960" y="168" font-size="15" fill="#1F2430" font-weight="400" text-anchor="start">What is different</text>
+<text x="960" y="192" font-size="15" fill="#1F2430" font-weight="400" text-anchor="start">after reading?</text>
+<text x="600" y="276" font-size="14" fill="#5B6270" font-weight="600" text-anchor="middle">verdict</text>
+<rect x="425" y="290" width="100" height="34" rx="17" fill="#1F9D6B"/>
+<text x="475" y="313" font-size="15" fill="#FFFFFF" font-weight="600" text-anchor="middle">clear</text>
+<rect x="543" y="290" width="100" height="34" rx="17" fill="#B7791F"/>
+<text x="593" y="313" font-size="15" fill="#FFFFFF" font-weight="600" text-anchor="middle">partial</text>
+<rect x="661" y="290" width="100" height="34" rx="17" fill="#C92A2A"/>
+<text x="711" y="313" font-size="15" fill="#FFFFFF" font-weight="600" text-anchor="middle">missing</text>
+<text x="600" y="356" font-size="16" fill="#5B6270" font-weight="600" text-anchor="middle">Each answer comes with a quote as evidence and a question for you, not a rewrite.</text>
+</svg>
