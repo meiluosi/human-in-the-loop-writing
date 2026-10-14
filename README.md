@@ -107,7 +107,7 @@ Claude picks the skill from what you ask. For example:
 
 If it doesn't trigger on its own, name it: in Claude Code type `/human-in-the-loop-writing`, or say "use the human-in-the-loop-writing skill" in Claude.ai.
 
-It pairs with [content-topic-decomposer](https://github.com/meiluosi/content-topic-decomposer): that one turns a topic into a content plan, this one turns one item from the plan into a piece you stand behind.
+It pairs with [content-topic-decomposer](https://github.com/meiluosi/content-topic-decomposer): that one turns a topic into a content plan, this one turns one item from the plan into a piece you stand behind. [content-card-designer](https://github.com/meiluosi/content-card-designer) then turns that piece into image cards, covers or an avatar.
 
 ## How well does it work?
 

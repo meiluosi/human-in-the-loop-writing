@@ -107,7 +107,7 @@ Claude 会根据你的需求自动调用这个 skill。例如：
 
 如果它没有自动触发，可以直接点名：在 Claude Code 里输入 `/human-in-the-loop-writing`，在 Claude.ai 里说"用 human-in-the-loop-writing 这个 skill"。
 
-它和 [content-topic-decomposer](https://github.com/meiluosi/content-topic-decomposer) 是一对：后者把一个主题拆成内容规划，这个 skill 把规划里的某一项写成你愿意署名的文章。
+它和 [content-topic-decomposer](https://github.com/meiluosi/content-topic-decomposer) 是一对：后者把一个主题拆成内容规划，这个 skill 把规划里的某一项写成你愿意署名的文章。再由 [content-card-designer](https://github.com/meiluosi/content-card-designer) 把成稿做成图文卡片、封面或头像。
 
 ## 效果如何？
 
